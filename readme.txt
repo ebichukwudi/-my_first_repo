@@ -3,4 +3,4 @@ Learning Git is going well sofar.
 I added this line in the update-readme branch.
 It's cloudy outside today.
 
-Adding the line to readme.txt
+Writing the line to readme.txt
